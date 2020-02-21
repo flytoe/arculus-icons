@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>new</title>
+    <desc>Created with Sketch.</desc>
+    <g id="new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18.25,18.25 L5.75,18.25 L5.75,5.75 L11.375,5.75 L11.375,4.5 L5.75,4.5 C5.05964406,4.5 4.5,5.05964406 4.5,5.75 L4.5,18.25 C4.5,18.9403559 5.05964406,19.5 5.75,19.5 L18.25,19.5 C18.9403559,19.5 19.5,18.9403559 19.5,18.25 L19.5,12.625 L18.25,12.625 L18.25,18.25 Z" id="Fill" fill="#000000"></path>
+        <polygon id="Path" fill="#009C98" points="18.25 5.75 18.25 3.25 17 3.25 17 5.75 14.5 5.75 14.5 7 17 7 17 9.5 18.25 9.5 18.25 7 20.75 7 20.75 5.75"></polygon>
+    </g>
+</svg>

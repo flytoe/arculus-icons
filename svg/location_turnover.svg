@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>location_turnover</title>
+    <desc>Created with Sketch.</desc>
+    <g id="location_turnover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.25,19.5 C17.3921356,19.5 20.75,16.1421356 20.75,12 C20.75,7.85786438 17.3921356,4.5 13.25,4.5 C9.10786438,4.5 5.75,7.85786438 5.75,12 L5.75,15.875 L3.5,13.625 L2.625,14.5 L6.375,18.25 L10.125,14.5 L9.25,13.625 L7,15.875 L7,12 C7,8.54822031 9.79822031,5.75 13.25,5.75 C16.7017797,5.75 19.5,8.54822031 19.5,12 C19.5,15.4517797 16.7017797,18.25 13.25,18.25 L13.25,19.5 Z" id="Fill" fill="#000000"></path>
+    </g>
+</svg>

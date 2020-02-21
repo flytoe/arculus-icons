@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>emergency_stop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="emergency_stop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,3.25 C7.16750844,3.25 3.25,7.16750844 3.25,12 C3.25,16.8324916 7.16750844,20.75 12,20.75 C16.8324916,20.75 20.75,16.8324916 20.75,12 C20.75,9.67935571 19.8281276,7.45375898 18.1871843,5.81281566 C16.546241,4.17187235 14.3206443,3.25 12,3.25 Z M15.75,14.5 C15.75,15.1903559 15.1903559,15.75 14.5,15.75 L9.5,15.75 C8.80964406,15.75 8.25,15.1903559 8.25,14.5 L8.25,9.5 C8.25,8.80964406 8.80964406,8.25 9.5,8.25 L14.5,8.25 C15.1903559,8.25 15.75,8.80964406 15.75,9.5 L15.75,14.5 Z" id="Fill" fill="#FF5C49"></path>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>enter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="enter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18.25,20.75 L10.75,20.75 C10.0596441,20.75 9.5,20.1903559 9.5,19.5 L9.5,17.625 L10.75,17.625 L10.75,19.5 L18.25,19.5 L18.25,4.5 L10.75,4.5 L10.75,6.375 L9.5,6.375 L9.5,4.5 C9.5,3.80964406 10.0596441,3.25 10.75,3.25 L18.25,3.25 C18.9403559,3.25 19.5,3.80964406 19.5,4.5 L19.5,19.5 C19.5,20.1903559 18.9403559,20.75 18.25,20.75 Z M11.11875,14.86875 L13.35625,12.625 L4.5,12.625 L4.5,11.375 L13.35625,11.375 L11.11875,9.13125 L12,8.25 L15.75,12 L12,15.75 L11.11875,14.86875 Z" id="Fill" fill="#000000"></path>
+    </g>
+</svg>

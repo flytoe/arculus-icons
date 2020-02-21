@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>arrow_direction_load</title>
+    <desc>Created with Sketch.</desc>
+    <g id="arrow_direction_load" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#785EF0" transform="translate(12.000000, 17.750000) rotate(-270.000000) translate(-12.000000, -17.750000) " points="8.25 18.375 13.3575 18.375 11.11625 20.61625 12 21.5 15.75 17.75 12 14 11.11625 14.88375 13.3575 17.125 8.25 17.125"></polygon>
+        <path d="M12,2.5 L15.75,6.25 L14.86625,7.13375 L12.625,4.8925 L12.6243251,9.57858733 C13.7029345,9.85587928 14.5,10.8348573 14.5,12 C14.5,13.3807119 13.3807119,14.5 12,14.5 C10.6192881,14.5 9.5,13.3807119 9.5,12 C9.5,10.8348573 10.2970655,9.85587928 11.3756749,9.57858733 L11.375,4.8925 L9.13375,7.13375 L8.25,6.25 L12,2.5 Z M12,10.5 C11.1715729,10.5 10.5,11.1715729 10.5,12 C10.5,12.8284271 11.1715729,13.5 12,13.5 C12.8284271,13.5 13.5,12.8284271 13.5,12 C13.5,11.1715729 12.8284271,10.5 12,10.5 Z" id="Combined-Shape" fill="#FE8500"></path>
+    </g>
+</svg>

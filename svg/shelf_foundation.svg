@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>shelf_foundation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shelf_foundation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,9 C19.6472087,9 20.1795339,9.49187466 20.2435464,10.1221948 L20.25,10.25 L20.25,13 L20.243,13.125 L20.25,13.125 L20.25,16.125 L19,16.125 L19,14.25 L5.25,14.25 L5.25,16.125 L4,16.125 L4,13.125 L4.006,13.125 L4,13 L4,10.25 C4,9.60279131 4.49187466,9.0704661 5.12219476,9.00645361 L5.25,9 L19,9 Z M19,10.25 L5.25,10.25 L5.25,13 L19,13 L19,10.25 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>undo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="undo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,11.3 C18.5,11.3 19.8,12.6 19.8,14 C19.8,15.5 18.5,16.7 17,16.7 L13,16.7 L13,18 L17,18 C19.3,18 21,16.3 21,14 C21,11.8 19.2,10 17,10 L5.4,10 L7.9,7.5 L7,6.6 L3,10.6 L7,14.6 L7.9,13.7 L5.4,11.3 L17,11.3 Z" id="Fill" fill="#000000"></path>
+    </g>
+</svg>

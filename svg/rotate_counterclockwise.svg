@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>rotate_counterclockwise</title>
+    <desc>Created with Sketch.</desc>
+    <g id="rotate_counterclockwise" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.25,19.5 L4.25,12 C4.25068904,11.3099297 4.80992967,10.750689 5.5,10.75 L13,10.75 C13.6900703,10.750689 14.249311,11.3099297 14.25,12 L14.25,19.5 C14.249311,20.1900703 13.6900703,20.749311 13,20.75 L5.5,20.75 C4.80992967,20.749311 4.25068904,20.1900703 4.25,19.5 L4.25,19.5 Z M5.5,12 L5.499375,19.5 L13,19.5 L13,12 L5.5,12 Z M13.625,3.25 L14.50625,4.13125 L12.89375,5.75 L16.125,5.75 C18.5401035,5.7527554 20.4972446,7.70989646 20.5,10.125 L20.5,13.25 L19.25,13.25 L19.25,10.125 C19.2479337,8.39996678 17.8500332,7.00206632 16.125,7 L12.89375,7 L14.50625,8.61875 L13.625,9.5 L10.5,6.375 L13.625,3.25 Z" id="Fill" fill="#000000"></path>
+    </g>
+</svg>
