@@ -4,6 +4,6 @@
     <title>cross</title>
     <desc>Created with Sketch.</desc>
     <g id="cross" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Fill" fill="#000000" points="17 7.875 16.125 7 12 11.125 7.875 7 7 7.875 11.125 12 7 16.125 7.875 17 12 12.875 16.125 17 17 16.125 12.875 12"></polygon>
+        <polygon id="primary" fill="#000000" points="17 7.875 16.125 7 12 11.125 7.875 7 7 7.875 11.125 12 7 16.125 7.875 17 12 12.875 16.125 17 17 16.125 12.875 12"></polygon>
     </g>
 </svg>

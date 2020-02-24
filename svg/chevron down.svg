@@ -4,6 +4,6 @@
     <title>chevron down</title>
     <desc>Created with Sketch.</desc>
     <g id="chevron-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Fill" fill="#000000" points="12 16.75 5.75 10.5 6.625 9.625 12 15 17.375 9.625 18.25 10.5"></polygon>
+        <polygon id="primary" fill="#000000" points="12 16.75 5.75 10.5 6.625 9.625 12 15 17.375 9.625 18.25 10.5"></polygon>
     </g>
 </svg>

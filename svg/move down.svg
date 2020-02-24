@@ -4,6 +4,6 @@
     <title>move down</title>
     <desc>Created with Sketch.</desc>
     <g id="move-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M12,13.875 L5.75,7.625 L6.63125,6.74375 L12,12.10625 L17.36875,6.74375 L18.25,7.625 L12,13.875 Z M4.5,16.375 L19.5,16.375 L19.5,17.625 L4.5,17.625 L4.5,16.375 Z" id="Fill" fill="#000000"></path>
+        <path d="M12,13.875 L5.75,7.625 L6.63125,6.74375 L12,12.10625 L17.36875,6.74375 L18.25,7.625 L12,13.875 Z M4.5,16.375 L19.5,16.375 L19.5,17.625 L4.5,17.625 L4.5,16.375 Z" id="primary" fill="#000000"></path>
     </g>
 </svg>

@@ -4,6 +4,6 @@
     <title>caret_down</title>
     <desc>Created with Sketch.</desc>
     <g id="caret_down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Fill" fill="#000000" points="16.375 9.5 12 14.5 7.625 9.5"></polygon>
+        <polygon id="primary" fill="#000000" points="16.375 9.5 12 14.5 7.625 9.5"></polygon>
     </g>
 </svg>
